@@ -3,8 +3,7 @@ package com.comrade;
 import java.util.concurrent.Executors;
 
 
-public class DearComradeJavaZeroToHero
-{
+public class DearComradeJavaZeroToHero {
     public static void main( String[] args ) throws InterruptedException {
         creatingPlatformThread();
         creatingVirtualThread();
