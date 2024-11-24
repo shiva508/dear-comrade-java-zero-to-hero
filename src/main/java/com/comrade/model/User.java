@@ -17,4 +17,6 @@ public class User implements Serializable {
     private String lastName;
     private String gender;
     private List<Address> addresses;
+
+
 }
