@@ -15,7 +15,7 @@ import java.util.List;
 public class User implements Serializable {
     private String firstName;
     private String lastName;
-    private String gender;
+    private Gender gender;
     private List<Address> addresses;
 
 
