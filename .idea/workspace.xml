@@ -4,32 +4,90 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8be74e7f-dffc-4d3f-b350-9af9fad7168b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="8be74e7f-dffc-4d3f-b350-9af9fad7168b" name="Changes" comment="Junit Test">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/setting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/comrade/config/DCConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/comrade/model/CommonCollectionResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/comrade/model/CommonResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/comrade/model/DynamicApiResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/comrade/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/comrade/model/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/comrade/service/MorningJagingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/comrade/DearComradeJavaZeroToHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/comrade/DearComradeJavaZeroToHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/comrade/model/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/comrade/model/AddressType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/comrade/model/Gender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/comrade/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/comrade/DearComradeJavaZeroToHeroTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shiva508&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shiva508/dear-comrade-java-zero-to-hero.git&quot;,
+    &quot;accountId&quot;: &quot;883c7346-5848-40e9-bca2-862b9fed46cc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ilI92DcgFBzzjEiB0WPp4dKHIr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DearComradeJavaZeroToHero.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserFilterTest.addressTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserFilterTest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.dear-comrade-java-zero-to-hero [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;generics&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/shiva/back-end/dear-comrade-java-zero-to-hero&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.DearComradeJavaZeroToHero">
     <configuration name="DearComradeJavaZeroToHero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.comrade.DearComradeJavaZeroToHero" />
       <module name="dear-comrade-java-zero-to-hero" />
@@ -43,8 +101,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserFilterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dear-comrade-java-zero-to-hero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.comrade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.comrade" />
+      <option name="MAIN_CLASS_NAME" value="com.comrade.UserFilterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserFilterTest.addressFilterBothTrueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dear-comrade-java-zero-to-hero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.comrade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.comrade" />
+      <option name="MAIN_CLASS_NAME" value="com.comrade.UserFilterTest" />
+      <option name="METHOD_NAME" value="addressFilterBothTrueTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserFilterTest.addressFilterBothTrueTest" />
+        <item itemvalue="JUnit.UserFilterTest" />
         <item itemvalue="Application.DearComradeJavaZeroToHero" />
       </list>
     </recent_temporary>
@@ -58,6 +149,103 @@
       <option name="presentableId" value="Default" />
       <updated>1720058585012</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding common model class">
+      <option name="closed" value="true" />
+      <created>1732429572568</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732429572568</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Model object creation">
+      <option name="closed" value="true" />
+      <created>1732430042049</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732430042049</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Gender enum added to common models">
+      <option name="closed" value="true" />
+      <created>1732430275287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732430275287</updated>
+    </task>
+    <task id="LOCAL-00004" summary="User model accepts Gender enum">
+      <option name="closed" value="true" />
+      <created>1732430457990</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732430457990</updated>
+    </task>
+    <task id="LOCAL-00005" summary="User model object with input data">
+      <option name="closed" value="true" />
+      <created>1732432015004</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732432015004</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Junit Test">
+      <option name="closed" value="true" />
+      <created>1732435825405</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732435825405</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding common model class" />
+    <MESSAGE value="Model object creation" />
+    <MESSAGE value="Gender enum added to common models" />
+    <MESSAGE value="User model accepts Gender enum" />
+    <MESSAGE value="User model object with input data" />
+    <MESSAGE value="Junit Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Junit Test" />
+  </component>
+  <component name="WfRunsListSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;branch&quot;: &quot;filtering&quot;,
+      &quot;currentBranchFilter&quot;: true
+    },
+    {
+      &quot;branch&quot;: &quot;filtering&quot;,
+      &quot;currentBranchFilter&quot;: true
+    },
+    {
+      &quot;branch&quot;: &quot;filtering&quot;,
+      &quot;currentBranchFilter&quot;: true
+    },
+    {
+      &quot;branch&quot;: &quot;main&quot;,
+      &quot;currentBranchFilter&quot;: true
+    },
+    {
+      &quot;branch&quot;: &quot;generics&quot;,
+      &quot;currentBranchFilter&quot;: true
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;branch&quot;: &quot;generics&quot;,
+    &quot;currentBranchFilter&quot;: true
+  }
+}</component>
 </project>
