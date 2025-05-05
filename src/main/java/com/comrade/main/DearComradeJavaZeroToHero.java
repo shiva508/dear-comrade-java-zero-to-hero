@@ -1,4 +1,4 @@
-package com.comrade;
+package com.comrade.main;
 
 import java.util.concurrent.Executors;
 

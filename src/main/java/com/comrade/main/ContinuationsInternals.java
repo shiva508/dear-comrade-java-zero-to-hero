@@ -1,4 +1,4 @@
-package com.comrade;
+package com.comrade.main;
 
 import jdk.internal.vm.Continuation;
 import jdk.internal.vm.ContinuationScope;
