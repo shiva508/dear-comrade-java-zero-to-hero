@@ -9,11 +9,11 @@ public class BreakClient {
 
     private static void breakStatement() {
         int[] MARKS_LIST= {10,87,98,25,67};
-        for (int i = 0; i < MARKS_LIST.length; i++) {
-            if(MARKS_LIST[i]==98) {
+        for (int j : MARKS_LIST) {
+            if (j == 98) {
                 break;
             }
-            System.out.println(MARKS_LIST[i]);
+            System.out.println(j);
         }
     }
     private static void breakSimulatorSingleMethod() {
